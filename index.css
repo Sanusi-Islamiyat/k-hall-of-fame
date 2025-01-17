@@ -172,5 +172,12 @@
       width: 60px;
       height: 60px;
     }
+    .prev-btn {
+        margin-block-end: 20px;
+    }
+
+    .next-btn {
+        margin-block-start: 20px;
+    }
   }
   
