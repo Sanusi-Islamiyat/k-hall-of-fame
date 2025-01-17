@@ -175,10 +175,12 @@
     }
     .prev-btn {
         margin-block-end: 20px;
+        justify-self: center;
     }
 
     .next-btn {
         margin-block-start: 20px;
+        justify-self: center;
     }
   }
   
