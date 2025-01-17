@@ -153,7 +153,7 @@
     .image-container {
       width: 100%;
       max-width: 300px;
-      margin-inline-start: 40px;
+     justify-self: center;
     }
   
     .artist-name {
